@@ -20,12 +20,13 @@
     "grunt-shell-spawn": "^0.3.0",
     "grunt-wait-server": "^0.1.2",
     "http-server": "^0.6.1",
-    "karma": "^0.12.19",
-    "karma-chrome-launcher": "^0.1.4",
+    "jasmine-core": "^2.2.0",
+    "karma": "^0.12.31",
+    "karma-chrome-launcher": "^0.1.8",
     "karma-ie-launcher": "^0.1.5",
-    "karma-jasmine": "^0.1.5",
+    "karma-jasmine": "^0.3.5",
     "karma-requirejs": "^0.2.2",
     "protractor": "^1.0.0",
-    "requirejs": "^2.1.14"
+    "requirejs": "^2.1.17"
   }
 }
